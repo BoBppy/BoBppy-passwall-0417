@@ -1,3 +1,9 @@
+**包含2020-04-17之前Lionel/Openwrt仓库的dev-lean-lede分支下的全部源码（同样包含passwall40版本以及ssrp+）**
+
+**小心同步feeds**
+
+**git pull 不适用**
+
 欢迎来到Lean的Openwrt源码仓库！
 =
 Welcome to Lean's  git source of OpenWrt and packages
